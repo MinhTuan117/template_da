@@ -1,0 +1,34 @@
+.box {
+    background-color: #ccc;
+    height: 2000px;
+}
+.card {
+    position: fixed;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    display: flex;
+}
+
+.card-01 {
+    width: 50%;
+    height: 40px;
+}
+
+.card-01 button{
+    width: 100%;
+    height: 40px;
+    background-color: crimson;
+}
+
+.card-02 {
+    width: 50%;
+    height: 40px;
+  
+}
+
+.card-02 button{
+    width: 100%;
+    height: 40px;
+    background-color: hotpink;
+}
